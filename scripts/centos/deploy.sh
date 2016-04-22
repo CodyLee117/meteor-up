@@ -18,6 +18,10 @@ revert_app (){
 set -e
 
 APP_DIR=/opt/<%=appName %>
+SHARED_DIR=/opt/<%=appName %>/shared
+
+# make the shared directory
+sudo mkdir -p $SHARED_DIR
 
 # save the last known version
 cd $APP_DIR
