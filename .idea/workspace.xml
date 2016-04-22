@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e7b23adf-f715-489f-b55f-de498b97846d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/centos/deploy.sh" afterPath="$PROJECT_DIR$/scripts/centos/deploy.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/centos/start.sh" afterPath="$PROJECT_DIR$/templates/centos/start.sh" />
     </list>
     <ignored path="meteor-up.iws" />
@@ -68,8 +67,8 @@
       <file leaf-file-name="start.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/centos/start.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+            <state relative-caret-position="358">
+              <caret line="27" column="32" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -450,12 +449,12 @@
       <option name="presentableId" value="Default" />
       <updated>1461270957120</updated>
       <workItem from="1461270958440" duration="7368000" />
-      <workItem from="1461347213213" duration="908000" />
+      <workItem from="1461347213213" duration="1110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8276000" />
+    <option name="totallyTimeSpent" value="8478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
@@ -752,8 +751,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/centos/start.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        <state relative-caret-position="358">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="32" />
           <folding />
         </state>
       </provider>
